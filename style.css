@@ -1,0 +1,8 @@
+#outercontainer{
+    padding: 20px;
+    margin: 5%;
+    border: dotted red ;
+}
+#innercontainer{
+    border : solid blue
+}
